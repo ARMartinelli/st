@@ -7,7 +7,7 @@
  */
 static char *font = "Liberation Mono:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
-float alpha = 0.5; //for transparency
+float alpha = 0.6; //for transparency
 
 
 /*
