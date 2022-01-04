@@ -1,5 +1,6 @@
-This is my build of st
-To enable transparency you need an X composite manager (e.g. picom)
+This is my build of st.
+
+To enable transparency you need an X composite manager (e.g. picom).
 
 st - simple terminal
 --------------------
